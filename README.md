@@ -131,6 +131,6 @@ This project demonstrates the use of PostgreSQL for data validation, business an
 
 ## Author
 
-**Adarsh**
+**Adarsh V S**
 
 Aspiring Data Analyst | PostgreSQL | Data Analysis
